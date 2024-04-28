@@ -1,0 +1,31 @@
+.skills.skills{
+    width: auto;
+    font-weight: bold;
+    padding: 16px;
+}
+
+.skills h3{
+    text-align: center;
+    font-size: 22px;
+    
+}
+
+.skills__line{
+    display: flex;
+    width:auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.skills__box{
+    display: flex;
+    align-items:flex-start;
+    flex-direction: row;
+    width: 50%;
+    border: yellow solid;
+    background: white;
+    flex-wrap:wrap
+    
+    
+}
+
